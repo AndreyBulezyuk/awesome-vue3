@@ -9,6 +9,8 @@
 
 > A curated list of awesome things related to Vue.js 3
 
+> Created by <a href="https://git-academy.com/VueJS3">German IT Academy</a>
+
 - [Resources](#resources)
   - [Official Resources](#official-resources)
   - [External Resources](#external-resources)
